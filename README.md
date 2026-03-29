@@ -2,6 +2,7 @@
 
 # IMPORTANT
 Link:https://stocksanalyzer-arum2p623mpbtxkd2facx9.streamlit.app/
+
 To see model training and code kindly download stock.ipynb as a raw file and then view.
 
 ## Overview
