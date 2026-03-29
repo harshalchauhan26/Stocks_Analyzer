@@ -1,7 +1,7 @@
 # NIFTY 50 Stock Analyzer
 
 # IMPORTANT
-Link:https://stocksanalyzer-arum2p623mpbtxkd2facx9.streamlit.app/
+Link: https://stocksanalyzer-5ync7trqbbueysz5quskh9.streamlit.app/
 
 To see model training and code kindly download stock.ipynb as a raw file and then view.
 
