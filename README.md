@@ -1,6 +1,5 @@
 # NIFTY 50 Stock Analyzer
-# Link:
-https://stocksanalyzer-arum2p623mpbtxkd2facx9.streamlit.app/
+Link:https://stocksanalyzer-arum2p623mpbtxkd2facx9.streamlit.app/
 
 ## Overview
 
